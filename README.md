@@ -14,8 +14,11 @@
    - Пример запуска: python3 loader_vk.py -r mudakoff,lentach -rl -pc 10 -cc 1 \
    Скачивание первых десяти постов с группы mudakoff и lentach и загрузка первого комментария под постом и ветки его ответов
    
+ ### labeler - папка с файлами разметчика
+
+ Ссылка на блокнот в колабе https://colab.research.google.com/drive/1PQ-YRpEth4c0R88A-N2rcJZ1MXFnah36?usp=sharing#scrollTo=OT9lyxu5skpA
+
 
 ### lesson - папка с блокнотами уроков
 
  - embeddings - папка с материалами занятия про векторное представление текста
-
