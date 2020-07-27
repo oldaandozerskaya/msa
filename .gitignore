@@ -1,0 +1,37 @@
+## Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+notebooks/
+
+### Virtual Environments
+.venv/
+
+
+### MyPy
+.mypy_cache/
+
+### PyTest
+.pytest_cache/
+.cache/
+
+
+### PyTest Coverage
+.coverage
+
+## IDE
+
+### PyCharm
+.idea/
+
+### VSCode
+.vscode/
+
+## Other
+.ipynb_checkpoints/
+
+### Resources
+
